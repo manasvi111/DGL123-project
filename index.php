@@ -31,7 +31,7 @@
           <button>Know More!</button>
         </div>
         <div class="carousel-image">
-          <img src="assets/.png" alt="Image">
+        <h2><center> More than 10,000+ options for your Right Fabric search!!</center></h2>
         </div>
       </div>
       <div class="carousel-part">
@@ -41,7 +41,7 @@
           <button>Know more!</button>
         </div>
         <div class="carousel-image">
-          <img src="assets/logo.png" alt="Image">
+        <h2><center> Please visit our fabric page to know more!!</center></h2>
         </div>
       </div>
     </div>
