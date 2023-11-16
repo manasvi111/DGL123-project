@@ -51,15 +51,15 @@
     <h2>Our best sellers</h2>
     <div class="card-container">
       <div class="card">
-        <img src="assets/food-item1.jpeg" alt="Image 1">
+        <img src="assets/food-item1.jfif" alt="Image 1">
         <h3>FIND A LOCATION</h3>
       </div>
       <div class="card">
-        <img src="assets/food-item2.jpeg" alt="Image 2">
+        <img src="assets/food-item2.jfif" alt="Image 2">
         <h3>EARN FREE DELIEVERY</h3>
       </div>
       <div class="card">
-        <img src="assets/food-item3.jpeg" alt="Image 3">
+        <img src="assets/food-item3 (1).jpeg" alt="Image 3">
         <h3>SHOPPING OPTIONS</h3>
       </div>
     </div>
@@ -68,7 +68,7 @@
   <footer class="footer">
     <div class="footer-row-1">
       <div class="footer-logo">
-        <img src="assets/logo2.png" alt="Logo">
+        <img src="assets/logo.png" alt="Logo">
       </div>
       <div class="footer-social">
         <a href="#"><i class="fab fa-facebook-f"></i></a>
