@@ -19,26 +19,26 @@
       <li class="nav-links"><a href="gifts.php">Gifts</a></li>
      
 		</ul>
-    <img  class="logo-image" src="assets/logo.png" alt="Logo">
+    <img src="assets/logo.png" alt="Logo">
 	</nav>
 
   <div class="carousel">
     <div class="carousel-content">
       <div class="carousel-part">
         <div class="carousel-text">
-          <h2>New! Crunchy Chicken</h2>
-          <p>Find out all about our new crispy chicken sandwich.</p>
-          <button>CRUNCH! CRUNCH!</button>
+          <h2>New! Fabric</h2>
+          <p>Find out all about our new demanded fabric.</p>
+          <button>Know More!</button>
         </div>
         <div class="carousel-image">
-          <img src="assets/logo.png" alt="Image">
+          <img src="assets/.png" alt="Image">
         </div>
       </div>
       <div class="carousel-part">
         <div class="carousel-text">
-          <h2>Checkout our New Offer!</h2>
+          <h2>Checkout our latest Offer!</h2>
           <p>We have a new offer for our existing customers.</p>
-          <button>CRUNCH! CRUNCH!</button>
+          <button>Know more!</button>
         </div>
         <div class="carousel-image">
           <img src="assets/logo.png" alt="Image">
@@ -48,7 +48,7 @@
   </div>
 
   <section class="card-section">
-    <h2>Fresh Mexican Grill</h2>
+    <h2>Our best sellers</h2>
     <div class="card-container">
       <div class="card">
         <img src="assets/food-item1.jpeg" alt="Image 1">
@@ -56,11 +56,11 @@
       </div>
       <div class="card">
         <img src="assets/food-item2.jpeg" alt="Image 2">
-        <h3>EARN FREE BURRITOS</h3>
+        <h3>EARN FREE DELIEVERY</h3>
       </div>
       <div class="card">
         <img src="assets/food-item3.jpeg" alt="Image 3">
-        <h3>CATERING OPTIONS</h3>
+        <h3>SHOPPING OPTIONS</h3>
       </div>
     </div>
   </section>
@@ -81,8 +81,8 @@
     <div class="footer-row">
       <div class="footer-section">
         <ul>
-          <li><a href="about.html">About</a></li>
-          <li><a href="menu.html">Menu</a></li>
+          <li><a href="about.php">About</a></li>
+          <li><a href="menu.php">Menu</a></li>
           <li><a href="#">Catering</a></li>
           <li><a href="#">News</a></li>
         </ul>
@@ -92,12 +92,12 @@
           <li><a href="#">Locations</a></li>
           <li><a href="#">Franchise</a></li>
           <li><a href="#">Careers</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
       </div>
       <div class="footer-section">
         <ul>
-          <li><a href="#">Nutrition Information</a></li>
+          <li><a href="#">Fabric Raw material Information</a></li>
           <li><a href="#">Privacy Policy</a></li>
           <li><a href="#">Site Map</a></li>
           <li><a href="#">Accessibility</a></li>
@@ -106,7 +106,7 @@
     </div>
     <hr>
     <div class="footer-row">
-      <p>Copyright &copy; 2023 BarBurrto. All rights reserved.</p>
+      <p>Copyright &copy; 2023 Textile Company. All rights reserved.</p>
     </div>
   </footer>
   <script>
