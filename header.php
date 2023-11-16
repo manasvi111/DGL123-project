@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $pageTitle; ?> - Recipes.in</title>
+    <title><?php echo $pageTitle; ?> Textile Management System</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -12,10 +12,10 @@
         <nav>
             <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="trending.php">Trending</a></li>
-                <li><a href="categories.php">Categories</a></li>
-                <li><a href="search.php">Search</a></li>
-                <li><a href="register.php">Register</a></li>
+                <li><a href="trending.php">Fabrics</a></li>
+                <li><a href="categories.php">Varities</a></li>
+                <li><a href="search.php">Login</a></li>
+                <li><a href="register.php">Sign up</a></li>
             </ul>
         </nav>
     </header>
