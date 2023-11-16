@@ -6,46 +6,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="styles.css">
   <script src="https://kit.fontawesome.com/7d66a8729a.js" crossorigin="anonymous"></script>
-  <title>Textile Management System</title>
+  <title>About</title>
 </head>
 <body>
-  <nav class="nav-item">
-		<ul class="bar-list">
-      <li class="bars"><i class="fa-solid fa-bars"></i></li>
-			<li class="nav-links"><a href="index.php">Home</a></li>
-			<li class="nav-links"><a href="menu.php">Menu</a></li>
-			<li class="nav-links"><a href="about.php">About</a></li>
-			<li class="nav-links"><a href="contact.php">Contact</a></li>
-      <li class="nav-links"><a href="gifts.php">Gifts</a></li>
-     
+  <nav>
+		<ul>
+    <li><a href="index.php">Home</a></li>
+			<li><a href="menu.php">Menu</a></li>
+			<li><a href="about.php">About</a></li>
+			<li><a href="contact.php">Contact</a></li>
+      <li><a href="gifts.php">Gifts</a></li>
 		</ul>
-    <img  class="logo-image" src="assets/logo.png" alt="Logo">
+		<img src="assets/logo.png" alt="Logo">
 	</nav>
 
-  <div class="carousel">
-    <div class="carousel-content">
-      <div class="carousel-part">
-        <div class="carousel-text">
-          <h2>New! Crunchy Chicken</h2>
-          <p>Find out all about our new crispy chicken sandwich.</p>
-          <button>CRUNCH! CRUNCH!</button>
-        </div>
-        <div class="carousel-image">
-          <img src="assets/logo.png" alt="Image">
-        </div>
-      </div>
-      <div class="carousel-part">
-        <div class="carousel-text">
-          <h2>Checkout our New Offer!</h2>
-          <p>We have a new offer for our existing customers.</p>
-          <button>CRUNCH! CRUNCH!</button>
-        </div>
-        <div class="carousel-image">
-          <img src="assets/logo.png" alt="Image">
-        </div>
-      </div>
-    </div>
+  <div class="background-image">
+    
+    <img src="assets/food-item2.jpeg" alt="Image">
+        
   </div>
+
+  <section class="hero-section">
+    <h1 class="hero-title">BARBURRITO HAS BEEN FRESH, FAST & TASTY</h1>
+    <p class="hero-copy">Ever since we opened the first Barburrito in Toronto in 2005, we’ve built on our reputation of offering great quality Tex-Mex food, fresh, fast, and without compromise. We may not be the only burrito in town, but we’ve certainly raised the bar. Find out what you’ve been missing at Barburrito.</p>
+    <a href="#" class="hero-link">Discover our location<i class="fa fa-arrow-right hero-icon"></i></a>
+  </section>
 
   <section class="card-section">
     <h2>Fresh Mexican Grill</h2>
@@ -109,16 +94,5 @@
       <p>Copyright &copy; 2023 BarBurrto. All rights reserved.</p>
     </div>
   </footer>
-  <script>
-    const barButton = document.getElementsByClassName('bars')[0];
-    const list= document.getElementsByClassName('nav-links')
-    barButton.addEventListener('click', function(){
-      for (var i=0; i< list.length; i++)
-      list[i].classList.toggle('active');
-
-     
-    })
-    
-  </script>
 </body>
 </html>
