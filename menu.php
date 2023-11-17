@@ -22,26 +22,26 @@
 
   <div class="background-image">
     
-    <img src="assets/food-item2.jpeg" alt="Image">
+    <img src="assets/.jfif" alt="Image">
         
   </div>
 
   <section class="hero-section">
-    <h1 class="hero-title">BARBURRITO MENU</h1>
-    <p class="hero-copy">Old world recipes meet new world taste buds. Our food combines everything you love about old-fashioned cuisine with a new twist.</p>
+    <h1 class="hero-title">iTextiles Fabrics</h1>
+    <p class="hero-copy">At iTextiles, we cater to the needs of designers, artists, and creators looking for that perfect fabric to bring their visions to life.</p>
     <a href="#" class="hero-link">VIEW PRICING & ORDER NOW!<i class="fa fa-arrow-right hero-icon"></i></a>
   </section>
 
   <section class="menu-section">
     <div class="menu-section-copy">
-      <h1>Crunchy</h1>
-      <h1>Chicken</h1>
-      <h1>Sandwiches</h1>
-      <p>Our NEWEST edition to our menu. Try it in Classic Crunch, Sweet Heat and BBQ Kick.</p>
+      <h1>Silky</h1>
+      <h1>Fabric</h1>
+      <h1>Varieties</h1>
+      <p>Our NEWEST edition to our collection. Try it in each an every way.</p>
       <a>VIEW PRICING & ORDER NOW</a>
     </div>
     <div class="menu-section-image">
-      <img src="assets/food-item-4.jpeg" height="300px"/>
+      <img src="assets/silk.jfif" height="300px"/>
     </div>
     <div></div>
   </section>
@@ -49,69 +49,28 @@
   <section class="menu-dishes-section">
     <div>
       <h2>
-        CRUNCHY CHICKEN SANDWICHES
+        COTTON VARIETIES
       </h2>
-      <p>Classic Crunch</p>
-      <p>Sweet Heat</p>
-      <p>BBQ Kick</p>
+      <p>Pima Cotton</p>
+      <p>Egyptian Cotton</p>
+      <p>Upland Cotton</p>
     </div>
   </section>
 
   <section class="menu-section">
     <div class="menu-section-copy">
-      <h1>BURRITO &</h1>
-      <h1>BOWLS</h1>
-      <p>Our burritos and bowls combine everything you love about old-fashioned cuisine with a new twist.</p>
+      <h1>COMFORT &</h1>
+      <h1>STYLISH</h1>
+      <p>Our cottons combine everything you love about old-fashioned or modern society mixture with a new twist.</p>
       <a>VIEW PRICING & ORDER NOW</a>
     </div>
     <div class="menu-section-image">
-      <img src="assets/food-item-5.jpeg" height="300px"/>
+      <img src="assets/cotton.jfif" height="300px"/>
     </div>
     <div></div>
   </section>
 
-  <section class="menu-dishes-section">
-    <div>
-      <h2>
-        BURRITOS
-      </h2>
-      <p>Bean : 160 cals</p>
-      <p>Mild Chicken : 100 cals</p>
-      <p>Spicy Chicken : 100 cal</p>
-      <p>Jerk Chicken : 110 cal</p>
-      <p>Crunchy Chicken : 250 cal</p>
-      <p>Pulled Pork : 170 cal</p>
-      <p>Ground Beef : 150 cal</p>
-      <p>Veggie Ground : 140 cal</p>
-    </div>
-  </section>
-
-  <section class="menu-section">
-    <div class="menu-section-copy">
-      <h1>TACOS</h1>
-      <p>Time-honoured recipes from our chef’s kitchen served just the way you like it.</p>
-      <a>VIEW PRICING & ORDER NOW</a>
-    </div>
-    <div class="menu-section-image">
-      <img src="assets/food-item-6.jpeg" height="300px"/>
-    </div>
-    <div></div>
-  </section>
-
-  <section class="menu-dishes-section">
-    <div>
-      <h2>
-        TACOS
-      </h2>
-      <p>Mild Chicken : 160 cals</p>
-      <p>Spicy Chicken : 100 cals</p>
-      <p>Jerk Chicken : 100 cal</p>
-      <p>Crunchy Chicken : 250 cal</p>
-      <p>Pulled Pork : 170 cal</p>
-      <p>Ground Beef : 150 cal</p>
-      <p>Veggie Ground : 140 cal</p>
-    </div>
-  </section>
+ 
 
   <footer class="footer">
     <div class="footer-row-1">
