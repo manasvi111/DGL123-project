@@ -11,11 +11,11 @@
 <body>
   <nav>
 		<ul>
-			<li><a href="index.php">Home</a></li>
-			<li><a href="menu.php">Menu</a></li>
-			<li><a href="about.php">About</a></li>
-			<li><a href="contact.php">Contact</a></li>
-      <li><a href="gifts.php">Gifts</a></li>
+    <li class="nav-links"><a href="index.php">Home</a></li>
+			<li class="nav-links"><a href="menu.php">Fabrics</a></li>
+			<li class="nav-links"><a href="about.php">About</a></li>
+			<li class="nav-links"><a href="contact.php">Contact</a></li>
+      <li class="nav-links"><a href="gifts.php">Career</a></li>
 		</ul>
 		<img src="assets/logo.png" alt="Logo">
 	</nav>
@@ -78,7 +78,7 @@
   <footer class="footer">
     <div class="footer-row-1">
       <div class="footer-logo">
-        <img src="assets/logo2.png" alt="Logo">
+        <img src="assets/logo.png" alt="Logo">
       </div>
       <div class="footer-social">
         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -91,8 +91,8 @@
     <div class="footer-row">
       <div class="footer-section">
         <ul>
-          <li><a href="about.html">About</a></li>
-          <li><a href="menu.html">Menu</a></li>
+          <li><a href="about.php">About</a></li>
+          <li><a href="menu.php">Menu</a></li>
           <li><a href="#">Catering</a></li>
           <li><a href="#">News</a></li>
         </ul>
@@ -102,12 +102,12 @@
           <li><a href="#">Locations</a></li>
           <li><a href="#">Franchise</a></li>
           <li><a href="#">Careers</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
       </div>
       <div class="footer-section">
         <ul>
-          <li><a href="#">Nutrition Information</a></li>
+          <li><a href="#">Fabric Raw material Information</a></li>
           <li><a href="#">Privacy Policy</a></li>
           <li><a href="#">Site Map</a></li>
           <li><a href="#">Accessibility</a></li>
@@ -116,7 +116,7 @@
     </div>
     <hr>
     <div class="footer-row">
-      <p>Copyright &copy; 2023 BarBurrto. All rights reserved.</p>
+      <p>Copyright &copy; 2023 Textile Company. All rights reserved.</p>
     </div>
   </footer>
 </body>

@@ -13,10 +13,10 @@
 		<ul class="bar-list">
       <li class="bars"><i class="fa-solid fa-bars"></i></li>
 			<li class="nav-links"><a href="index.php">Home</a></li>
-			<li class="nav-links"><a href="menu.php">Menu</a></li>
+			<li class="nav-links"><a href="menu.php">Fabrics</a></li>
 			<li class="nav-links"><a href="about.php">About</a></li>
 			<li class="nav-links"><a href="contact.php">Contact</a></li>
-      <li class="nav-links"><a href="gifts.php">Gifts</a></li>
+      <li class="nav-links"><a href="gifts.php">Career</a></li>
      
 		</ul>
     <img src="assets/logo.png" alt="Logo">
