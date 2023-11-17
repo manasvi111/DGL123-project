@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="styles.css">
   <script src="https://kit.fontawesome.com/7d66a8729a.js" crossorigin="anonymous"></script>
-  <title>Contact</title>
+  <title>careers</title>
 </head>
 <body>
   <nav>
@@ -27,12 +27,11 @@
   </div>
 
   <section class="hero-section">
-    <h1 class="hero-title">GIVE THE GIFT OF BURRITOS</h1>
-    <p class="hero-copy">Everyone knows that food is the way to the heart. Share the gift of Tex-Mex with your friends and family, and send an e-gift card to your loved ones. It’s the gift that keeps on giving</p>
-    <p class="hero-copy">Valid at any BarBurrito location in Canada. Use the gift card in-store or add it to your account on the BarBurrito Canada app!</p>
+    <h1 class="hero-title">Don't miss the opportunity</h1>
+    <p class="hero-copy">Join our dynamic team at iTextiles and become part of a passionate community dedicated to redefining the textile industry. Explore exciting career opportunities that foster innovation, creativity, and growth, as we weave together a future of excellence in fabrics and design.</p>
     <div class="hero-gifts">
-      <a href="#" class="hero-link">SEND E-GIFTS<i class="fa fa-arrow-right hero-icon"></i></a>
-      <a href="#" class="hero-link">CHECK BALANCE<i class="fa fa-arrow-right hero-icon"></i></a>
+      <a href="#" class="hero-link">SEND RESUME<i class="fa fa-arrow-right hero-icon"></i></a>
+      <a href="#" class="hero-link">CHECK ELIGIBILITY<i class="fa fa-arrow-right hero-icon"></i></a>
     </div>
   </section>
   <div class="section-divider">
