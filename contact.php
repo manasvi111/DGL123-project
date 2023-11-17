@@ -27,13 +27,13 @@
   </div>
 
   <section class="hero-section">
-    <h1 class="hero-title">Contact us at <br/> BARBURRITO</h1>
+    <h1 class="hero-title">Contact us at <br/> iTEXTILES</h1>
     <div class="hero-section-contact">
       <div>
         <img src="assets/contact-image-1.png" height="120px"/>
         <h4>Contact Information</h4>
         <h4>+ 1 949 949 4949</h4>
-        <h4>info@barburrito.ca</h4>
+        <h4>info@itextiles.ca</h4>
       </div>
       <hr />
       <div>
