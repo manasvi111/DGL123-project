@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$databaseName = "recipe_system";
+$databaseName = "Textile_management_system";
 
 $conn = new mysqli($servername, $username, $password, $databaseName);
 

@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$databaseName = "recipe_system";
+$databaseName = "Textile_management_system";
 
 $conn = new mysqli($servername, $username, $password);
 
@@ -10,7 +10,7 @@ if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
 
-$databaseName = "recipe_system";
+$databaseName = "Textile_management_system";
 $sql = "CREATE DATABASE $databaseName";
 
 if ($conn->query($sql) === TRUE) {
