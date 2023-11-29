@@ -1,10 +1,9 @@
 <?php 
-  <?php
   // (A) ERROR REPORTING LEVEL
   // https://www.php.net/manual/en/errorfunc.constants.php
   error_reporting(E_ALL & ~E_NOTICE); // ALL EXCEPT NOTICES
   // error_reporting(E_ALL); // ALL KINDS OF ERROR
-  // error_reporting(0); // NO ERROR REPORTING
+  // error_reporting(0); // NO ERROR REPORTIN G
    
   // (B) ERROR LOG
   ini_set("log_errors", 1); // SAVE ERROR TO LOG FILE
