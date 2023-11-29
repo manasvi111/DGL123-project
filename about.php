@@ -25,8 +25,10 @@
     <img src="assets/food-item2.jpeg" alt="Image">
         
   </div>
+ 
   <?php
 // (A) CURL INIT
+/*
 $curl = curl_init();
 curl_setopt_array($curl, [
   CURLOPT_URL => "https://DOES-NOT-EXIST.com/dummy.php",
@@ -39,7 +41,7 @@ $result = curl_exec($curl);
 if ($result === false) {
   error_log("Failed connecting to https://DOES-NOT-EXIST.com", 0);
 }
-curl_close($curl);
+curl_close($curl);*/
 ?>
 
   <section class="hero-section">
