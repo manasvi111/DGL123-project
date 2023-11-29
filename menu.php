@@ -57,6 +57,25 @@
     </div>
   </section>
 
+  <?php
+// (A) INIT
+/*$varA = ["Hello", "World", "Foo", "Bar"];
+$varB = "";
+
+// (B) CONCAT
+foreach ($varA as $txt) { $varB .= $txt; }
+
+// (C) DISPLAY & STOP HERE
+print_r($varA);
+echo $varB;
+exit();
+
+// (D) MORE PROCESSING
+$varA[] = "Doge";
+$varB .= "Last";
+*/
+?>
+
   <section class="menu-section">
     <div class="menu-section-copy">
       <h1>COMFORT &</h1>
