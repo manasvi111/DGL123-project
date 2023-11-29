@@ -75,6 +75,16 @@
         </div>
       </form>
   </section>
+  <?php
+    require "second.php";
+    $testObj = new Test();
+    $testObj->foo();
+    class Test {
+      function foo () {
+        var_dump(debug_backtrace());
+        debug_print_backtrace();
+      }
+  ?>
   <footer class="footer">
     <div class="footer-row-1">
       <div class="footer-logo">
