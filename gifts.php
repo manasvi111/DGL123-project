@@ -25,9 +25,9 @@
     <img src="assets/food-item2.jpeg" alt="Image">
         
   </div>
-  <?php
+   <?php
 // (A) START SESSION
-session_start();
+ /*session_start();
 
 // (B) LET'S SAY WE HAVE A SHOPPING CART
 $_SESSION["cart"] = [
@@ -39,11 +39,12 @@ $_SESSION["cart"] = [
     "name" => "Doge",
     "qty" => 88
   ]
-];
+]; */
 
 // (C) WHAT'S IN THE CART?
-print_r($_SESSION);
-var_dump($_SESSION);
+//print_r($_SESSION);
+//var_dump($_SESSION);
+?> 
   <section class="hero-section">
     <h1 class="hero-title">Don't miss the opportunity</h1>
     <p class="hero-copy">Join our dynamic team at iTextiles and become part of a passionate community dedicated to redefining the textile industry. Explore exciting career opportunities that foster innovation, creativity, and growth, as we weave together a future of excellence in fabrics and design.</p>
