@@ -25,6 +25,22 @@
     <img src="assets/food-item2.jpeg" alt="Image">
         
   </div>
+  <?php
+// (A) CURL INIT
+$curl = curl_init();
+curl_setopt_array($curl, [
+  CURLOPT_URL => "https://DOES-NOT-EXIST.com/dummy.php",
+  CURLOPT_RETURNTRANSFER => true,
+  CURLOPT_HEADER => false
+]);
+
+// (B) CURL FETCH
+$result = curl_exec($curl);
+if ($result === false) {
+  error_log("Failed connecting to https://DOES-NOT-EXIST.com", 0);
+}
+curl_close($curl);
+?>
 
   <section class="hero-section">
     <h1 class="hero-title">iTexiles HAS BEEN MODERN, DEMANDED & TRENDY</h1>
